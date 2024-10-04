@@ -54,12 +54,20 @@ Algumas melhorias que podem ser implementadas no futuro incluem:
 - 💾 **Salvar e carregar playlists**: Permitir que o usuário salve sua playlist em um arquivo e possa carregá-la posteriormente.
 - 🎨 **Interface gráfica**: Desenvolver uma interface gráfica para facilitar a interação, usando bibliotecas como **GTK**.
 
+
+## ⚙️ Como Compilar o Projeto
+- gcc -o minhaPlaylist minhaPlaylist.c
+- ./minhaPlaylist
+
+
 ## 💡 Aprendizado
 
 Este projeto é uma ótima introdução ao uso de listas duplamente encadeadas e manipulação de memória em C. Ele também permite que o programador desenvolva habilidades importantes, como:
 - Trabalho com ponteiros.
 - Estruturação de dados em listas.
 - Manipulação de strings e entrada de dados do usuário.
+
+
 
 ## 🎥 Vídeo Explicativo
 
